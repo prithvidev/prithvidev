@@ -28,10 +28,10 @@ I can gladly work on Java Swing and Tkinter(python) with databse connectivity.<b
 **Talking about Personal Stuffs:**
 
 - 🔭 I’m currently active in **Android Development**
-- 👨‍💻 All of my projects are available at **(https://github.com/prithvidev)**
+- 💻 All of my projects are available at **(https://github.com/prithvidev)**
 - 💬 Ask me about **JAVA, PYTHON, MySQL, Android**
 - 📫 How to reach me: **prithvidevkanojia@gmail.com**<br />
-Seeking for someone to work in JAVA with Machine Learning.
+👨‍Seeking for someone to work in JAVA with Machine Learning.
 
 <br /> 
 
