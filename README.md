@@ -19,9 +19,10 @@
 <img align="right" height="250" width="400" alt="GIF" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" />
 
 
-Hi, I'm Prithvi Dev, a Java Application Developer 🚀 from India, currently Pursuing Bachelor of Technology(CSE) from Dr. Akhilesh Das Gupta Institute of Technology Affiliated from Guru Gobind Singh Indraprasth University. I'm very passionate about learning new things and growing more and more in my field of working. 
-I am an enthusiast and striving coder in Java and python. I'm currently learning Android Development in Java. Will upload some exciting apps in the future.
-I can gladly work on Java Swing and Tkinter(python) with databse connectivity.
+Hi, I'm Prithvi Dev, a Java Application Developer 🚀 from India, currently Pursuing Bachelor of Technology(CSE) from Dr. Akhilesh Das Gupta Institute of Technology Affiliated from Guru Gobind Singh Indraprasth University. I'm very passionate about learning new things and growing more and more in my field of working. <br />
+I am an enthusiast and striving coder in Java and python. I'm currently learning Android Development in Java. Will upload some exciting apps in the future.<br />
+I can gladly work on Java Swing and Tkinter(python) with databse connectivity.<br />
+
 
 
 **Talking about Personal Stuffs:**
@@ -36,6 +37,3 @@ Seeking for someone to work in JAVA with Machine Learning.
 
 **Languages and Tools:**  
 Java || Python || MySQL || Android Development || Scene Builder
-
-
-
