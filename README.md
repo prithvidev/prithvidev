@@ -16,19 +16,20 @@
 <br />
 <br />
 
-<img align="absmiddle" height="250" width="400" alt="GIF" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" />
+<img align="center" height="250" width="400" alt="GIF" src="https://physicsgurukul.files.wordpress.com/2019/02/character-1.gif" />
+
+<br />
+<br />
 
 
-Hi, I'm Prithvi Dev, a Java Application Developer 🚀 from India, currently pursuing a Bachelor of Technology(CSE) from Dr. Akhilesh Das Gupta Institute of Technology Affiliated from Guru Gobind Singh Indraprasth University. I'm very passionate about learning new things and growing more and more in my field of work.
+<p style='Jokerman'> Hi, I'm Prithvi Dev, a Java Application Developer 🚀 from India, currently pursuing a Bachelor of Technology(CSE) from Dr. Akhilesh Das Gupta Institute of Technology Affiliated from Guru Gobind Singh Indraprasth University. I'm very passionate about learning new things and growing more and more in my field of work.
 I am an enthusiast and striving coder in Java and python. I'm currently learning Android Development in Java. I will upload some exciting apps in the future.
-I can gladly work on Java Swing and Tkinter(python) with database connectivity.<br />
+I can gladly work on Java Swing and Tkinter(python) with database connectivity.<br /><p>
 
 <br >
 
-**Talking about Personal Stuffs:**
-
 - 🔭 I’m currently active in **Android Development**
-- 💻 All of my projects are available at **(https://github.com/prithvidev)**
+- 💻 My projects are available at **(https://github.com/prithvidev)**
 - 💬 Ask me about **JAVA, PYTHON, MySQL, Android**
 - 📫 How to reach me: **prithvidevkanojia@gmail.com**<br />
 👨‍Seeking for someone to work in JAVA with Machine Learning.
