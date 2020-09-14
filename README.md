@@ -13,8 +13,6 @@
     <img align="left" alt="Prithvi's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
   </a>
 
-<br />
-
 <img align="right" height="300" width="450" alt="GIF" src="https://physicsgurukul.files.wordpress.com/2019/02/character-1.gif" />
 
 <br />
