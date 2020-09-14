@@ -36,5 +36,8 @@ I can gladly work on Java Swing and Tkinter(python) with database connectivity.<
 **Languages and Tools:**  
 
 <img align="left" alt="JAVA ECLIPSE" src="https://img.icons8.com/office/40/000000/java-eclipse.png"/>
-<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
-<img src="https://img.icons8.com/color/48/000000/python.png"/>
+<img align="left" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
+<img align="left" src="https://img.icons8.com/color/48/000000/python.png"/>
+<img align="left" src="https://img.icons8.com/windows/40/000000/netbeans.png"/>
+<img align="left" src="https://img.icons8.com/ios-filled/50/000000/mysql-logo.png"/>
+<img src="https://img.icons8.com/color/48/000000/pycharm.png"/>
