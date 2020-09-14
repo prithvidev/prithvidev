@@ -22,7 +22,8 @@
 I am an enthusiast and striving coder in Java and python. I'm currently learning Android Development in Java. I will upload some exciting apps in the future.
 I can gladly work on Java Swing and Tkinter(python) with database connectivity.</h3>
 
-<br >
+<br />
+<br />
 
 - 🔭 I’m currently active in **Android Development**
 - 💻 My projects are available at **(https://github.com/prithvidev)**
@@ -33,4 +34,7 @@ I can gladly work on Java Swing and Tkinter(python) with database connectivity.<
 <br /> 
 
 **Languages and Tools:**  
-Java || Python || MySQL || Android Development || Scene Builder
+
+<img align="left" alt="JAVA ECLIPSE" src="https://img.icons8.com/office/40/000000/java-eclipse.png"/>
+<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
+<img src="https://img.icons8.com/color/48/000000/python.png"/>
