@@ -21,7 +21,6 @@
 <br />
 <br />
 
-
 <h3 style="font-family:verdana;">Hi, I'm Prithvi Dev, a Java Application Developer 🚀 from India, currently pursuing a Bachelor of Technology(CSE) from Dr. Akhilesh Das Gupta Institute of Technology Affiliated from Guru Gobind Singh Indraprasth University. I'm very passionate about learning new things and growing more and more in my field of work.
 I am an enthusiast and striving coder in Java and python. I'm currently learning Android Development in Java. I will upload some exciting apps in the future.
 I can gladly work on Java Swing and Tkinter(python) with database connectivity.</h3>
