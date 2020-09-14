@@ -14,7 +14,6 @@
   </a>
 
 <br />
-<br />
 
 <img align="right" height="300" width="450" alt="GIF" src="https://physicsgurukul.files.wordpress.com/2019/02/character-1.gif" />
 
