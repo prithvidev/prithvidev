@@ -13,11 +13,9 @@
     <img align="left" alt="Prithvi's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
   </a>
 
-<img align="center" height="300" width="450" alt="GIF" src="https://stormotion.io/blog/content/images/2018/12/developer.gif" />
+<img align="center" height="350" width="600" alt="GIF" src="https://stormotion.io/blog/content/images/2018/12/developer.gif" />
 
-<h4 align="center" style="font-family:verdana;">Hi, I'm Prithvi Dev, a Java Application Developer 🚀 from India, currently pursuing a Bachelor of Technology(CSE) from Dr. Akhilesh Das Gupta Institute of Technology Affiliated from Guru Gobind Singh Indraprasth University. I'm very passionate about learning new things and growing more and more in my field of work.
-I am an enthusiast and striving coder in Java and python. I'm currently learning Android Development in Java. I will upload some exciting apps in the future.
-I can gladly work on Java Swing and Tkinter(python) with database connectivity.</h3>
+<h3 align="center" style="font-family: Times New Roman;"><b><i>Hi, I'm Prithvi Dev, a Java Application Developer 🚀 from India, currently pursuing a Bachelor of Technology(CSE) from Dr. Akhilesh Das Gupta Institute of Technology Affiliated from Guru Gobind Singh Indraprasth University. I'm very passionate about learning new things and growing more and more in my field of work. I am an enthusiast and striving coder in Java and python. I'm currently learning Android Development in Java. I will upload some exciting apps in the future. I can gladly work on Java Swing and Tkinter(python) with database connectivity.</h3></i></b>
 
 <br />
 <br />
