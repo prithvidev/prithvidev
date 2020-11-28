@@ -15,7 +15,7 @@
 
 <img align="center" height="350" width="600" alt="GIF" src="https://stormotion.io/blog/content/images/2018/12/developer.gif" />
 
-<h3 align="center" style="font-family: Times New Roman;"><b><i>Hi, I'm Prithvi Dev, a Java Application Developer 🚀 from India, currently pursuing a Bachelor of Technology(CSE) from Dr. Akhilesh Das Gupta Institute of Technology Affiliated from Guru Gobind Singh Indraprasth University. I'm very passionate about learning new things and growing more and more in my field of work. I am an enthusiast and striving coder in Java and python. I'm currently learning Android Development in Java. I will upload some exciting apps in the future. I can gladly work on Java Swing and Tkinter(python) with database connectivity.</h3></i></b>
+<h3 align="center" style="font-family: Times New Roman;"><b><i>Hi, I'm Prithvi Dev, a Java Application Developer 🚀 from India, currently pursuing a Bachelor of Technology(CSE) from Dr. Akhilesh Das Gupta Institute of Technology and Management Affiliated from Guru Gobind Singh Indraprasth University. I'm very passionate about learning new things and growing more and more in my field of work. I am an enthusiast and striving coder in Java and python. I'm currently learning Android Development in Java. I will upload some exciting apps in the future. I can gladly work on Java Swing and Tkinter(python) with database connectivity.</h3></i></b>
 
 <br />
 <br />
