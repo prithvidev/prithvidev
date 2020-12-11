@@ -20,7 +20,7 @@
 <br />
 <br />
 
-- 🔭 I’m currently active in **Android Development**
+- 🔭 I’m currently active in **Machine Learning**
 - 💻 My projects are available at **(https://github.com/prithvidev)**
 - 💬 Ask me about **JAVA, PYTHON, MySQL, Android**
 - 📫 How to reach me: **prithvidevkanojia@gmail.com**
