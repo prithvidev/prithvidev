@@ -15,16 +15,16 @@
 
 <img align="center" height="350" width="600" alt="GIF" src="https://stormotion.io/blog/content/images/2018/12/developer.gif" />
 
-<h3 align="center" style="font-family: Times New Roman;"><b><i>Hi, I'm Prithvi Dev, a Java Application Developer 🚀 from India, currently pursuing a Bachelor of Technology(CSE) from Dr. Akhilesh Das Gupta Institute of Technology and Management Affiliated from Guru Gobind Singh Indraprasth University. I'm very passionate about learning new things and growing more and more in my field of work. I am an enthusiast and striving coder in Java and python. I'm currently learning Machine Learning. I can gladly work on Java Swing and Tkinter(python) with database connectivity.</h3></i></b>
+<h3 align="center" style="font-family: Times New Roman;"><b><i>Hi, I'm Prithvi Dev, a Java Application Developer 🚀 from India, graduated from Dr. Akhilesh Das Gupta Institute of Technology and Management Affiliated from Guru Gobind Singh Indraprastha University in Bachelor of Technology(CSE) . I'm very passionate about learning new things and growing more and more in my field of work. I am an enthusiast and striving coder in Java and python. I can gladly work on Java Swing and Tkinter(python) with database connectivity.</h3></i></b>
 
 <br />
 <br />
 
-- 🔭 I’m currently active in **Machine Learning**
 - 💻 My projects are available at **(https://github.com/prithvidev)**
 - 💬 Ask me about **JAVA, PYTHON, MySQL**
 - 📫 How to reach me: **prithvidevkanojia@gmail.com**
-- 👨‍Seeking for someone to work in JAVA with Machine Learning.
+- 👨‍Seeking for someone to work in JAVA or Python with Machine Learning.
+- Also practising HTML, CSS and JAVASCRIPT recently. 
 
 <br /> 
 
@@ -36,6 +36,7 @@
 <img align="left" src="https://img.icons8.com/windows/40/000000/netbeans.png"/>
 <img align="left" src="https://img.icons8.com/ios-filled/50/000000/mysql-logo.png"/>
 <img src="https://img.icons8.com/color/48/000000/pycharm.png"/>
+
 <br />
 <img align="left" alt="Most Language Used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prithvidev">
 <img align="right" alt="prithvidev's Github Stats" src="https://github-readme-stats.vercel.app/api?username=prithvidev&show_icons=true&theme=onedark">
