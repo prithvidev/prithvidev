@@ -15,16 +15,15 @@
 
 <img align="center" height="350" width="600" alt="GIF" src="https://stormotion.io/blog/content/images/2018/12/developer.gif" />
 
-<h3 align="center" style="font-family: Times New Roman;"><b><i>Hi, I'm Prithvi Dev, a Java Application Developer 🚀 from India, graduated from Dr. Akhilesh Das Gupta Institute of Technology and Management Affiliated from Guru Gobind Singh Indraprastha University in Bachelor of Technology(CSE) . I'm very passionate about learning new things and growing more and more in my field of work. I am an enthusiast and striving coder in Java and python. I can gladly work on Java Swing and Tkinter(python) with database connectivity.</h3></i></b>
+<h3 align="center" style="font-family: Times New Roman;"><b><i>Learning DevOps</h3></i></b>
 
 <br />
 <br />
 
 - 💻 My projects are available at **(https://github.com/prithvidev)**
-- 💬 Ask me about **JAVA, PYTHON, MySQL**
 - 📫 How to reach me: **prithvidevkanojia@gmail.com**
-- 👨‍Seeking for someone to work in JAVA or Python with Machine Learning.
-- Also practising HTML, CSS and JAVASCRIPT recently. 
+- 👨‍Seeking for someone to work in JAVA or Python and DevOps Tools.
+- Also practising AWS Cloud Concepts 
 
 <br /> 
 
