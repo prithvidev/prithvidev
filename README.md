@@ -1,12 +1,12 @@
-<h1 align="center">Hi 👋, I'm [Your Name]</h1>
-<h3 align="center">A Passionate DevOps | SRE | Middleware Engineer from India</h3>
+<h1 align="center">Hi 👋, I'm Prithvi Dev</h1>
+<h3 align="center">A Passionate DevOps | SRE | Middleware Engineer</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🔭 I’m currently working as **Site Reliability Engineer**
-- 🌱 I’m currently learning **AWS, Kubernetes, and Automation Tools**
-- 💬 Ask me about **Linux, Docker, Kubernetes, Shell Scripting, Web Servers, Middleware**
-- 📫 How to reach me **[your.email@example.com](mailto:your.email@example.com)**
+- 🔭 I’m currently working as **DevOps Engineer**
+- 🌱 I’m currently working on  **AWS, Kubernetes, and Automation Tools**
+- 💬 Ask me about **Linux, Docker, Kubernetes, Shell Scripting, Web Servers, Middleware, Jenkins**
+- 📫 How to reach me **prithvidevkanojia@gmail.com(mailto:prithvidevkanojia@gmail.com)**
 - ⚡ Fun fact **I love gardening and spending time with my plants**
 
 ---
@@ -24,16 +24,17 @@
 
 ## 📈 GitHub Stats
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight&hide_border=true" width="48%">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight&hide_border=true" width="48%">
+    <img src="https://github-readme-stats.vercel.app/api?username=prithvidev&show_icons=true&theme=tokyonight&hide_border=true" width="48%">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prithvidev&layout=compact&theme=tokyonight&hide_border=true" width="48%">
 </p>
 
 ---
 
 ## 🔗 Connect with me
 <p align="left">
-<a href="https://linkedin.com/in/your-linkedin-username" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="your name" /></a>
-<a href="mailto:your.email@example.com" target="blank"><img align="center" src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="email" /></a>
+<a href="https://linkedin.com/in/your-linkedin-username" target="https://www.linkedin.com/in/prithvi-d-8139b4131/"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="your name" /></a>
+<a href="mailto:your.email@example.com" target="prithvidevkanojia@gmail.com"><img align="center" src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="email" /></a>
+<a href="https://medium.com/@prithvidevkanojia1"><img align="left" alt="Prithvi's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" /></a>
 </p>
 
 ---
