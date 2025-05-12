@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Prithvi Dev</h1>
 <h3 align="center">A Passionate DevOps | SRE | Middleware Engineer</h3>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 - 🔭 I’m currently working as **DevOps Engineer**
 - 🌱 I’m currently working on  **AWS, Kubernetes, and Automation Tools**
