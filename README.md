@@ -1,41 +1,43 @@
-<h1 align="center">Hi 👋, I'm Prithvi Dev</h1>
+<h1 align="center">Hi 👋, I'm [Your Name]</h1>
+<h3 align="center">A Passionate DevOps | SRE | Middleware Engineer from India</h3>
 
-  <a href="https://twitter.com/PrithviDev6">
-    <img align="left" alt="Prithvi Dev | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-  </a>
-  <a href="https://www.linkedin.com/in/prithvi-d-8139b4131/">
-    <img align="left" alt="Prithvi's LinkedIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-  </a>
-  <a href="https://medium.com/@prithvidevkanojia1">
-    <img align="left" alt="Prithvi's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
-  </a>
-  <a href="https://www.instagram.com/prithvi__dev/?hl=en">
-    <img align="left" alt="Prithvi's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-  </a>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<img align="center" height="350" width="600" alt="GIF" src="https://stormotion.io/blog/content/images/2018/12/developer.gif" />
+- 🔭 I’m currently working as **Site Reliability Engineer**
+- 🌱 I’m currently learning **AWS, Kubernetes, and Automation Tools**
+- 💬 Ask me about **Linux, Docker, Kubernetes, Shell Scripting, Web Servers, Middleware**
+- 📫 How to reach me **[your.email@example.com](mailto:your.email@example.com)**
+- ⚡ Fun fact **I love gardening and spending time with my plants**
 
-<h3 align="center" style="font-family: Times New Roman;"><b><i>Learning DevOps</h3></i></b>
+---
 
-<br />
-<br />
+## 🛠 Tech Stack
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Bash](https://img.shields.io/badge/Shell_Scripting-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Apache](https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=apache&logoColor=white)
+![WebSphere](https://img.shields.io/badge/WebSphere-FF9900?style=flat-square&logo=ibm&logoColor=white)
 
-- 💻 My projects are available at **(https://github.com/prithvidev)**
-- 📫 How to reach me: **prithvidevkanojia@gmail.com**
-- 👨‍Seeking for someone to work in JAVA or Python and DevOps Tools.
-- Also practising AWS Cloud Concepts 
+---
 
-<br /> 
+## 📈 GitHub Stats
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight&hide_border=true" width="48%">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight&hide_border=true" width="48%">
+</p>
 
-**Languages and Tools:**  
+---
 
-<img align="left" alt="JAVA ECLIPSE" src="https://img.icons8.com/office/40/000000/java-eclipse.png"/>
-<img align="left" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
-<img align="left" src="https://img.icons8.com/color/48/000000/python.png"/>
-<img align="left" src="https://img.icons8.com/windows/40/000000/netbeans.png"/>
-<img align="left" src="https://img.icons8.com/ios-filled/50/000000/mysql-logo.png"/>
-<img src="https://img.icons8.com/color/48/000000/pycharm.png"/>
+## 🔗 Connect with me
+<p align="left">
+<a href="https://linkedin.com/in/your-linkedin-username" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="your name" /></a>
+<a href="mailto:your.email@example.com" target="blank"><img align="center" src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="email" /></a>
+</p>
 
-<br />
-<img align="left" alt="Most Language Used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prithvidev">
-<img align="right" alt="prithvidev's Github Stats" src="https://github-readme-stats.vercel.app/api?username=prithvidev&show_icons=true&theme=onedark">
+---
+
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=your-github-username&label=Profile%20views&color=0e75b6&style=flat" alt="your-github-username" />
+</p>
